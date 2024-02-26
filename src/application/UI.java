@@ -1,6 +1,5 @@
 package application;
 
-import java.awt.Checkbox;
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.List;
